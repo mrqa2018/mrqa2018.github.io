@@ -1,3 +1,3 @@
+The official website for the 2018 Workshop on Machine Reading for Question Answering (MRQA) 
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+The SinglePaged template comes from [github.com/t413/SinglePaged](https://github.com/t413/SinglePaged).
