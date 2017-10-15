@@ -74,12 +74,12 @@ hr {
   padding: 0 4%;
 }
 .container h3, .container h4 {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   text-align: center;
   padding: 0 4%;
 }
 .container p, .container ol, .container ul {
-  font-size: 16pt;
+  font-size: 14pt;
   padding: 0 5%;
 }
 .container ol, .container ul { padding: 0 8%; }
