@@ -19,35 +19,35 @@ fa-icon: users
 - [Minjoon Seo](https://seominjoon.github.io/), University of Washington
 
 ## Program Committee
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-
+- Yoav Artzi
+- Danish Contractor
+- Rajarshi Das
+- Bhuwan Dhingra
+- Xinya Du
+- Matt Gardner
+- Mor Geva
+- Kevin Gimpel
+- Luheng He
+- Jonathan Herzig
+- Mohit Iyyer
+- Mandar Joshi
+- Dongyeop Kang
+- Ni Lao
+- Kenton Lee 
+- Omer Levy
+- Nasrin Mostafazadeh
+- Karthik Narasimhan
+- Rodrigo Nogueira
+- Panupong (Ice) Pasupat
+- Hoifung Poon
+- Siva Reddy
+- Xiang Ren
+- Tim Rocktäschel
+- Swabha Swayamdipta
+- Kristina Toutanova
+- Adam Trischler
+- Shuohang Wang
+- Tong Wang
+- Johannes Welbl
+- Caiming Xiong
+- Victor Zhong
