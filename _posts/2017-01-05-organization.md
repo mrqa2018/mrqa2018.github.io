@@ -12,11 +12,11 @@ fa-icon: users
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
 ## Organizing Committee
-- [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
-- [Danqi Chen](http://cs.stanford.edu/people/danqi/), Stanford University
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
-- [Robin Jia](http://stanford.edu/~robinjia/), Stanford University 
 - [Minjoon Seo](https://seominjoon.github.io/), University of Washington
+- [Danqi Chen](http://cs.stanford.edu/people/danqi/), Stanford University
+- [Robin Jia](http://stanford.edu/~robinjia/), Stanford University 
+- [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
 
 ## Program Committee
 - Yoav Artzi
