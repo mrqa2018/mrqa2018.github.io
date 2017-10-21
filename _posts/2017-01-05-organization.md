@@ -11,7 +11,7 @@ fa-icon: users
 - [Percy Liang](https://cs.stanford.edu/~pliang/), Stanford University
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
-## Organizers
+## Organizing Committee
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
 - [Danqi Chen](http://cs.stanford.edu/people/danqi/), Stanford University
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
@@ -43,6 +43,7 @@ fa-icon: users
 - Siva Reddy
 - Xiang Ren
 - Tim Rocktäschel
+- Shimon Salant
 - Swabha Swayamdipta
 - Kristina Toutanova
 - Adam Trischler
