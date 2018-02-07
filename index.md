@@ -11,11 +11,14 @@ as well as a crucial technology for industry applications such as search engines
 The research community has recently created a multitude of large-scale datasets 
 over text sources such as 
 Wikipedia ([WikiReading](http://www.aclweb.org/anthology/P16-1145), 
-[SQuAD](https://aclweb.org/anthology/D16-1264)), 
-news articles ([CNN/Daily Mail](https://arxiv.org/pdf/1506.03340.pdf), 
-[NewsQA](https://arxiv.org/pdf/1611.09830.pdf)),
+[SQuAD](https://aclweb.org/anthology/D16-1264),
+[WikiHop](https://arxiv.org/pdf/1710.06481.pdf)), 
+news and other articles ([CNN/Daily Mail](https://arxiv.org/pdf/1506.03340.pdf), 
+[NewsQA](https://arxiv.org/pdf/1611.09830.pdf),
+[RACE](http://aclweb.org/anthology/D17-1082)),
 fictional stories ([MCTest](http://aclweb.org/anthology/D/D13/D13-1020.pdf), 
-[CBT](https://arxiv.org/pdf/1511.02301.pdf)), 
+[CBT](https://arxiv.org/pdf/1511.02301.pdf),
+[NarrativeQA](https://arxiv.org/pdf/1712.07040.pdf)), 
 and general web sources ([MS MARCO](https://arxiv.org/pdf/1611.09268.pdf), 
 [TriviaQA](http://www.aclweb.org/anthology/P17-1147), 
 [SearchQA](https://arxiv.org/pdf/1704.05179.pdf)).

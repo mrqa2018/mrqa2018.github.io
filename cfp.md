@@ -13,11 +13,14 @@ Recognizing the potential of MRQA as a comprehensive language understanding benc
 the research community has recently created a multitude of large-scale datasets 
 over text sources such as 
 Wikipedia ([WikiReading](http://www.aclweb.org/anthology/P16-1145), 
-[SQuAD](https://aclweb.org/anthology/D16-1264)), 
-news articles ([CNN/Daily Mail](https://arxiv.org/pdf/1506.03340.pdf), 
-[NewsQA](https://arxiv.org/pdf/1611.09830.pdf)),
+[SQuAD](https://aclweb.org/anthology/D16-1264),
+[WikiHop](https://arxiv.org/pdf/1710.06481.pdf)), 
+news and other articles ([CNN/Daily Mail](https://arxiv.org/pdf/1506.03340.pdf), 
+[NewsQA](https://arxiv.org/pdf/1611.09830.pdf),
+[RACE](http://aclweb.org/anthology/D17-1082)),
 fictional stories ([MCTest](http://aclweb.org/anthology/D/D13/D13-1020.pdf), 
-[CBT](https://arxiv.org/pdf/1511.02301.pdf)), 
+[CBT](https://arxiv.org/pdf/1511.02301.pdf),
+[NarrativeQA](https://arxiv.org/pdf/1712.07040.pdf)), 
 and general web sources ([MS MARCO](https://arxiv.org/pdf/1611.09268.pdf), 
 [TriviaQA](http://www.aclweb.org/anthology/P17-1147), 
 [SearchQA](https://arxiv.org/pdf/1704.05179.pdf)).
@@ -61,4 +64,10 @@ Please format your papers using the
 [standard ACL style files](http://acl2018.org/call-for-papers/#paper-submission-and-templates).
 Submission is electronic via the 
 [Softconf START system](https://www.softconf.com/acl2018/MRQA/).
-Double submission to MRQA 2018 and other workshops or conferences is welcome.
+
+We accept submissions on work published or submitted elsewhere. 
+Recently published work should clearly indicate the original venue, 
+and will be accepted if the organizers think the work will benefit 
+from exposure to the audience of this workshop. 
+Work published elsewhere will not be included in the workshop proceedings. 
+All other submissions will go through a double-blind review process. 
