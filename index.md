@@ -52,3 +52,16 @@ surrounding MRQA, including:
 - Workshop Date: Thursday, July 19, 2018
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world). 
+
+## Organization
+##### Steering Committee
+- [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research
+- [Percy Liang](https://cs.stanford.edu/~pliang/), Stanford University
+- [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
+
+##### Organizing Committee
+- [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
+- [Minjoon Seo](https://seominjoon.github.io/), University of Washington
+- [Danqi Chen](http://cs.stanford.edu/people/danqi/), Stanford University
+- [Robin Jia](http://stanford.edu/~robinjia/), Stanford University 
+- [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
