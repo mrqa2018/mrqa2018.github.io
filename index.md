@@ -35,14 +35,17 @@ surrounding MRQA, including:
 - **Error Analysis**: What types of questions or documents are particularly challenging for existing systems?
 
 ## Invited Speakers
-
-[comment]: # ( - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research - [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/), University of Maryland - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University - [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University)
-
+Confirmed speakers:
 - [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
 - [Hannaneh Hajishirzi](http://ssli.ee.washington.edu/~hannaneh/), University of Washington
 - [Sebastian Riedel](http://www.riedelcastro.org/), University College London
 
-*Further speakers to be confirmed.*
+Expected but not yet confirmed:
+- [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research 
+- [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/), University of Maryland 
+- [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University 
+- [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University 
+- [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University)
 
 ## Important Dates
 - Deadline for submission: **Monday, April 23, 2018**  
@@ -54,12 +57,12 @@ surrounding MRQA, including:
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world). 
 
 ## Organization
-##### Steering Committee
+Steering Committee:
 - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research
 - [Percy Liang](https://cs.stanford.edu/~pliang/), Stanford University
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
-##### Organizing Committee
+Organizing Committee:
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
 - [Minjoon Seo](https://seominjoon.github.io/), University of Washington
 - [Danqi Chen](http://cs.stanford.edu/people/danqi/), Stanford University
