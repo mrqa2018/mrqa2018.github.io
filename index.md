@@ -45,7 +45,7 @@ Expected but not yet confirmed:
 - [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/), University of Maryland 
 - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University 
 - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University 
-- [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University)
+- [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University
 
 ## Important Dates
 - Deadline for submission: **Monday, April 23, 2018**  
