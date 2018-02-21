@@ -36,12 +36,12 @@ surrounding MRQA, including:
 
 ## Invited Speakers
 Confirmed speakers:
+- [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research 
 - [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
 - [Hannaneh Hajishirzi](http://ssli.ee.washington.edu/~hannaneh/), University of Washington
 - [Sebastian Riedel](http://www.riedelcastro.org/), University College London
 
 Pending confirmation:
-- [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research 
 - [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/), University of Maryland 
 - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University 
 - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University 
