@@ -31,7 +31,6 @@ order: 4
 - Dongyeop Kang
 - Ni Lao
 - Kenton Lee 
-- Omer Levy
 - Nasrin Mostafazadeh
 - Karthik Narasimhan
 - Rodrigo Nogueira
