@@ -3,7 +3,7 @@ layout: main
 title: Home
 order: 1
 ---
-**See our [Call for Papers](/cfp)!**
+**See our [Updated Call for Papers](/cfp)!**
 
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,

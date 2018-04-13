@@ -57,6 +57,15 @@ Can we guarantee good performance on certain types of questions or documents?
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world). 
 
+## Financial Assistance
+We can offer partial financial aid to student authors
+who demonstrate significant financial need.
+Instructions on how to apply for financial assistance
+will be provided after paper acceptance decisions have been finalized.
+
+## Best Paper Award
+An award of $500 will be given to the best paper of MRQA 2018.
+
 ## Submission Guidelines
 We seek submissions of at least 4 and at most 8 pages, not including citations.
 All submissions will be reviewed in a single track, regardless of length.
