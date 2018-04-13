@@ -67,3 +67,10 @@ Organizing Committee:
 - [Danqi Chen](http://cs.stanford.edu/people/danqi/), Stanford University
 - [Robin Jia](http://stanford.edu/~robinjia/), Stanford University 
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
+
+## Sponsors
+![Naver]({{ "/assets/images/naver-logo.png" | absolute_url }})
+
+![Facebook]({{ "/assets/images/facebook-logo.png" | absolute_url }})
+
+
