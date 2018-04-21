@@ -43,7 +43,6 @@ Confirmed speakers:
 
 Pending confirmation:
 - [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/), University of Maryland 
-- [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University 
 - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University 
 
 ## Important Dates
