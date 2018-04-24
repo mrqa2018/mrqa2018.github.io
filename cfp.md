@@ -50,7 +50,7 @@ Can we guarantee good performance on certain types of questions or documents?
 - **Error Analysis**: What types of questions or documents are particularly challenging for existing systems?
 
 ## Important Dates
-- Deadline for submission: **Monday, April 23, 2018**  
+- ~~Deadline for submission: Monday, April 23, 2018~~  
 - Notification of acceptance: Tuesday, May 15, 2018  
 - Deadline for camera-ready version: Monday, May 28, 2018  
 - Workshop Date: Thursday, July 19, 2018

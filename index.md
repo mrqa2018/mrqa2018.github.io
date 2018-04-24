@@ -3,8 +3,6 @@ layout: main
 title: Home
 order: 1
 ---
-**See our [Updated Call for Papers](/cfp)!**
-
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,
 as well as a crucial technology for industry applications such as search engines and dialog systems.
@@ -46,7 +44,7 @@ Pending confirmation:
 - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University 
 
 ## Important Dates
-- Deadline for submission: **Monday, April 23, 2018**  
+- ~~Deadline for submission: Monday, April 23, 2018~~  
 - Notification of acceptance: Tuesday, May 15, 2018  
 - Deadline for camera-ready version: Monday, May 28, 2018  
 - Early registration deadline: TBD  
