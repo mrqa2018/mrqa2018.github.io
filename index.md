@@ -3,6 +3,8 @@ layout: main
 title: Home
 order: 1
 ---
+**New**: we have released our list of [accepted papers](papers)!
+
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,
 as well as a crucial technology for industry applications such as search engines and dialog systems.
@@ -41,11 +43,10 @@ Confirmed speakers:
 
 Pending confirmation:
 - [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/), University of Maryland 
-- [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University 
 
 ## Important Dates
 - ~~Deadline for submission: Monday, April 23, 2018~~  
-- Notification of acceptance: Tuesday, May 15, 2018  
+- ~~Notification of acceptance: Tuesday, May 15, 2018~~  
 - Deadline for camera-ready version: Monday, May 28, 2018  
 - Early registration deadline: TBD  
 - Workshop Date: Thursday, July 19, 2018

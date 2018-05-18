@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Call for Papers
-order: 2
+order: 4
 ---
 ## Call for Papers
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
@@ -51,7 +51,7 @@ Can we guarantee good performance on certain types of questions or documents?
 
 ## Important Dates
 - ~~Deadline for submission: Monday, April 23, 2018~~  
-- Notification of acceptance: Tuesday, May 15, 2018  
+- ~~Notification of acceptance: Tuesday, May 15, 2018~~  
 - Deadline for camera-ready version: Monday, May 28, 2018  
 - Workshop Date: Thursday, July 19, 2018
 
