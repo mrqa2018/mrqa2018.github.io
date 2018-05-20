@@ -41,9 +41,6 @@ Confirmed speakers:
 - [Hannaneh Hajishirzi](http://ssli.ee.washington.edu/~hannaneh/), University of Washington
 - [Sebastian Riedel](http://www.riedelcastro.org/), University College London
 
-Pending confirmation:
-- [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/), University of Maryland 
-
 ## Important Dates
 - ~~Deadline for submission: Monday, April 23, 2018~~  
 - ~~Notification of acceptance: Tuesday, May 15, 2018~~  
