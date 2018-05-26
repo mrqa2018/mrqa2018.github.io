@@ -3,7 +3,7 @@ layout: main
 title: Home
 order: 1
 ---
-<!--**New**: we have released our list of [accepted papers](papers)!-->
+**New**: we have released our list of [accepted papers](papers)!
 
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,
