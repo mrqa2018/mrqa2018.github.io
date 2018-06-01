@@ -45,7 +45,7 @@ Confirmed speakers:
 ## Important Dates
 - ~~Deadline for submission: Monday, April 23, 2018~~  
 - ~~Notification of acceptance: Tuesday, May 15, 2018~~  
-- Deadline for camera-ready version: Monday, May 28, 2018  
+- ~~Deadline for camera-ready version: Monday, May 28, 2018~~ 
 - Early registration deadline: TBD  
 - Workshop Date: Thursday, July 19, 2018
 
