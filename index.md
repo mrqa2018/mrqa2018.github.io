@@ -40,6 +40,7 @@ Confirmed speakers:
 - [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
 - [Hannaneh Hajishirzi](http://ssli.ee.washington.edu/~hannaneh/), University of Washington
 - [Sebastian Riedel](http://www.riedelcastro.org/), University College London
+- [Richard Socher](https://www.socher.org/), Salesforce Research
 
 ## Important Dates
 - ~~Deadline for submission: Monday, April 23, 2018~~  
