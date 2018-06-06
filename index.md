@@ -59,7 +59,7 @@ Steering Committee:
 
 Organizing Committee:
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
-- [Minjoon Seo](https://seominjoon.github.io/), University of Washington
+- [Minjoon Seo](https://seominjoon.github.io/), NAVER & University of Washington
 - [Danqi Chen](http://cs.stanford.edu/people/danqi/), Stanford University
 - [Robin Jia](http://stanford.edu/~robinjia/), Stanford University 
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
