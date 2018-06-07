@@ -36,6 +36,7 @@ surrounding MRQA, including:
 
 ## Invited Speakers
 Confirmed speakers:
+- [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind
 - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research 
 - [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
 - [Hannaneh Hajishirzi](http://ssli.ee.washington.edu/~hannaneh/), University of Washington
@@ -45,8 +46,8 @@ Confirmed speakers:
 ## Important Dates
 - ~~Deadline for submission: Monday, April 23, 2018~~  
 - ~~Notification of acceptance: Tuesday, May 15, 2018~~  
-- Deadline for camera-ready version: Monday, May 28, 2018  
-- [Early registration deadline](https://acl2018.org/registration): June 4, 2018  
+- ~~Deadline for camera-ready version: Monday, May 28, 2018~~  
+- ~~[Early registration deadline](https://acl2018.org/registration): June 4, 2018~~ 
 - Workshop Date: Thursday, July 19, 2018
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world). 
