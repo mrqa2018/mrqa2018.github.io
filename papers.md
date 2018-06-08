@@ -11,7 +11,7 @@ and thanks to all of our reviewers for their hard work!
 * A MULTI-STAGE MEMORY AUGMENTED NEURAL NETWORK FOR MACHINE READING COMPREHENSION  
 Seunghak Yu, Sathish Reddy Indurthi, Seohyun Back and Haejun Lee
 * A SYSTEMATIC CLASSIFICATION OF KNOWLEDGE, REASONING, AND CONTEXT WITHIN THE ARC DATASET  
-* Michael Boratko, Harshit Padigela, Divyendra Mikkilineni, Pritish Yuvraj, Rajarshi Das, Andrew McCallum, Maria Chang, Achille Fokoue-Nkoutche, Pavan Kapanipathi, Nicholas Mattei, Ryan Musa, Kartik Talamadupula and Michael Witbrock
+Michael Boratko, Harshit Padigela, Divyendra Mikkilineni, Pritish Yuvraj, Rajarshi Das, Andrew McCallum, Maria Chang, Achille Fokoue-Nkoutche, Pavan Kapanipathi, Nicholas Mattei, Ryan Musa, Kartik Talamadupula and Michael Witbrock
 * ADAPTATIONS OF ROUGE AND BLEU FOR BETTER EVALUATING YES-NO AND ENTITY ANSWERS  
 An Yang, Kai Liu, Jing Liu, Yajuan Lyu and Sujian Li
 * COMPARATIVE ANALYSIS OF NEURAL QA MODELS ON SQUAD  
