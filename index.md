@@ -39,7 +39,6 @@ Confirmed speakers:
 - [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind
 - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research 
 - [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
-- [Hannaneh Hajishirzi](http://ssli.ee.washington.edu/~hannaneh/), University of Washington
 - [Sebastian Riedel](http://www.riedelcastro.org/), University College London
 - [Richard Socher](https://www.socher.org/), Salesforce Research
 
