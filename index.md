@@ -3,7 +3,7 @@ layout: main
 title: Home
 order: 1
 ---
-**New**: we have released our list of [accepted papers](papers)!
+**New**: we have released our workshop [program](#program)!
 
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,
@@ -34,13 +34,21 @@ surrounding MRQA, including:
 - **Dataset Analysis**: What challenges do current MRQA datasets pose?
 - **Error Analysis**: What types of questions or documents are particularly challenging for existing systems?
 
-## Invited Speakers
-Confirmed speakers:
-- [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind
-- [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research 
-- [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
-- [Sebastian Riedel](http://www.riedelcastro.org/), University College London
-- [Richard Socher](https://www.socher.org/), Salesforce Research
+## Program
+
+8:45--9:00   | Opening remarks
+9:00--9:35   | [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind
+9:35--10:10  | [Sebastian Riedel](http://www.riedelcastro.org/), University College London
+10:10--10:30 | Best paper talk: _A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset_
+10:30--11:00 | Morning coffee break
+11:00--11:35 | [Richard Socher](https://www.socher.org/), Salesforce Research
+11:35--12:10 | [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
+12:10--13:45 | Lunch
+13:45--14:20 | [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research
+14:20--15:30 | Poster session (with one-minute spotlight talks)
+15:30--16:00 | Afternoon coffee break
+16:00--17:00 | Panel discussion
+
 
 ## Important Dates
 - ~~Deadline for submission: Monday, April 23, 2018~~  

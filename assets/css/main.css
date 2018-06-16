@@ -27,6 +27,15 @@ h2 {
   font-size: 1.8rem;
 }
 
+/* Table spacing */
+table {
+  margin-bottom: 10px;
+}
+td {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 /*
  * Override Bootstrap's default container.
  */
