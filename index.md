@@ -5,6 +5,7 @@ order: 1
 ---
 **New**: we have released our workshop [program](#program)!
 
+
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,
 as well as a crucial technology for industry applications such as search engines and dialog systems.
@@ -37,14 +38,14 @@ surrounding MRQA, including:
 ## Program
 
 8:45--9:00   | Opening remarks
-9:00--9:35   | Invited talk: [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind, Data driven reading comprehension: successes and limitations
-9:35--10:10  | Invited talk: [Sebastian Riedel](http://www.riedelcastro.org/), University College London, Reading and Reasoning with Neural Program Interpreters
+9:00--9:35   | [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind, Data driven reading comprehension: successes and limitations
+9:35--10:10  | [Sebastian Riedel](http://www.riedelcastro.org/), University College London, Reading and Reasoning with Neural Program Interpreters
 10:10--10:30 | Best paper talk: _A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset_
 10:30--11:00 | Morning coffee break
-11:00--11:35 | Invited talk: [Richard Socher](https://www.socher.org/), Salesforce Research, The Natural Language Decathlon: Multitask Learning as Question Answering
-11:35--12:10 | Invited talk: [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research, Multi-step reasoning neural networks for question answering
+11:00--11:35 | [Richard Socher](https://www.socher.org/), Salesforce Research, The Natural Language Decathlon: Multitask Learning as Question Answering
+11:35--12:10 | [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research, Multi-step reasoning neural networks for question answering
 12:10--13:45 | Lunch
-13:45--14:20 | Invited talk: [Sameer Singh](http://sameersingh.org/), University of California, Irvine
+13:45--14:20 | [Sameer Singh](http://sameersingh.org/), University of California, Irvine
 14:20--15:30 | Poster session (with one-minute spotlight talks)
 15:30--16:00 | Afternoon coffee break
 16:00--17:00 | Panel discussion
@@ -78,3 +79,13 @@ Organizing Committee:
 ![Facebook]({{ "/assets/images/facebook-logo.png" | absolute_url }})
 
 
+
+<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Test
+  </button>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+  </div>
+</div>
