@@ -44,7 +44,7 @@ surrounding MRQA, including:
 11:00--11:35 | Invited talk: [Richard Socher](https://www.socher.org/), Salesforce Research
 11:35--12:10 | Invited talk: [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
 12:10--13:45 | Lunch
-13:45--14:20 | Invited talk: [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research
+13:45--14:20 | Invited talk: [Sameer Singh](http://sameersingh.org/), University of California, Irvine
 14:20--15:30 | Poster session (with one-minute spotlight talks)
 15:30--16:00 | Afternoon coffee break
 16:00--17:00 | Panel discussion
