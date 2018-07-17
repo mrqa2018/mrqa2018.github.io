@@ -64,7 +64,13 @@ We cast all tasks as question answering over a context. Furthermore, we present 
     <div class="card card-body">In this talk, I review our recent work on developing multi-step reasoning neural network models for answering complex questions based on either text or knowledge graph (KG). For text-QA, we present a simple yet robust stochastic answer net (SAN) (Liu et al. 2018) that simulates multi-step reasoning for machine reading comprehension. SAN is unique in its use of a kind of stochastic prediction dropout on the answer module during training, which improves  robustness of the model. For KG-QA, we focus the discussion on the recently proposed reinforcement learning based approaches that explore multi-step paths in KGs. We describe in detail a graph-walking agent, called M-Walk (Shen et al. 2018), which consists of a RNN and Monte Carlo Tree Search, and has achieved new state of the art results on several graph-walking benchmarks.
 </div></div>
 12:10--13:45 | Lunch<br>
-13:45--14:20 | [Sameer Singh](http://sameersingh.org/), University of California, Irvine<br>
+13:45--14:20 | [Sameer Singh](http://sameersingh.org/), University of California, Irvine<br><b> - Questioning Question Answering Answers </b><button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample">
+    Abstract
+  </button>
+  <div class="collapse" id="collapseExample3">
+    <div class="card card-body">Although existing QA systems are accurate on many benchmarks, they are often brittle and incorrect in ways that we don't fully understand. In this talk, I will introduce some of our recent tools for interpretability for black-box models, and present their application on SQuAD and VisualQA systems. In particular, I will show how different forms of explanations, such as word importance, sufficient conditions, and semantic adversaries, can be used to generate rationales, evaluate robustness, and analyze the errors of these complex, neural QA systems. (work with Marco Ribeiro and Carlos Guestrin)
+</div></div>
+
 14:20--15:30 | Poster session (with one-minute spotlight talks)<br>
 15:30--16:00 | Afternoon coffee break<br>
 16:00--17:00 | Panel discussion<br>
