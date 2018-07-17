@@ -40,6 +40,14 @@ surrounding MRQA, including:
 8:45--9:00   | Opening remarks
 9:00--9:35   | [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind, Data driven reading comprehension: successes and limitations
 9:35--10:10  | [Sebastian Riedel](http://www.riedelcastro.org/), University College London, Reading and Reasoning with Neural Program Interpreters
+<button class="btn btn-outline-info" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Abstract
+  </button>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+    We are getting better at teaching end-to-end neural models how to answer questions about content in natural language text. However, progress has been mostly restricted to extracting answers that are directly stated in text. In this talk, I will present our work towards teaching machines not only to read, but also to reason with what was read and to do this in a interpretable and controlled fashion. Our main hypothesis is that this can be achieved by a)  the development of neural abstract machines that follow the blueprint of program interpreters for real-world programming languages. We test this idea using two languages: an imperative (Forth) and a declarative (Prolog/Datalog) one. In both cases we implement differentiable interpreters that can be used for learning reasoning patterns. Crucially, because they are based on interpretable host languages, the interpreters also allow users to easily inject prior knowledge and inspect the learnt patterns. We will also present a data generation strategy to produce training sets for tasks that require reading and reasoning, and two datasets we have generated with it: Wikihop and Medhop.
+  </div>
+</div>
 10:10--10:30 | Best paper talk: _A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset_
 10:30--11:00 | Morning coffee break
 11:00--11:35 | [Richard Socher](https://www.socher.org/), Salesforce Research, The Natural Language Decathlon: Multitask Learning as Question Answering
@@ -80,12 +88,4 @@ Organizing Committee:
 
 
 
-<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Test
-  </button>
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-  </div>
-</div>
+
