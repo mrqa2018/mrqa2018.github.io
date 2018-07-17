@@ -37,12 +37,12 @@ surrounding MRQA, including:
 ## Program
 
 8:45--9:00   | Opening remarks
-9:00--9:35   | Invited talk: [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind
-9:35--10:10  | Invited talk: [Sebastian Riedel](http://www.riedelcastro.org/), University College London
+9:00--9:35   | Invited talk: [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind, Data driven reading comprehension: successes and limitations
+9:35--10:10  | Invited talk: [Sebastian Riedel](http://www.riedelcastro.org/), University College London, Reading and Reasoning with Neural Program Interpreters
 10:10--10:30 | Best paper talk: _A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset_
 10:30--11:00 | Morning coffee break
-11:00--11:35 | Invited talk: [Richard Socher](https://www.socher.org/), Salesforce Research
-11:35--12:10 | Invited talk: [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research
+11:00--11:35 | Invited talk: [Richard Socher](https://www.socher.org/), Salesforce Research, The Natural Language Decathlon: Multitask Learning as Question Answering
+11:35--12:10 | Invited talk: [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research, Multi-step reasoning neural networks for question answering
 12:10--13:45 | Lunch
 13:45--14:20 | Invited talk: [Sameer Singh](http://sameersingh.org/), University of California, Irvine
 14:20--15:30 | Poster session (with one-minute spotlight talks)
