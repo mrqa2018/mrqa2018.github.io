@@ -37,7 +37,7 @@ surrounding MRQA, including:
 
 ## Program
 8:45--9:00   | Opening remarks<br> 
-9:00--9:35   | [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind<br><b>Data driven reading comprehension: successes and limitations  </b><button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
+9:00--9:35   | [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind<br><b>Data driven reading comprehension: successes and limitations  </b><button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
 <div class="collapse" id="collapseExample">
     <div class="card card-body">The last three years has seen an explosion in interest in the application of large scale machine learning techniques to reading comprehension tasks. This interest has been driven by the availability of large datasets suitable for estimating data hungry supervised deep learning models. In this talk I will describe how our work at DeepMind has contributed to this trend and discuss whether this is the right approach for developing and evaluating natural language understanding systems.</div></div>
 9:35--10:10  | [Sebastian Riedel](http://www.riedelcastro.org/), University College London<br><b>Reading and Reasoning with Neural Program Interpreters  </b>
