@@ -37,10 +37,10 @@ surrounding MRQA, including:
 
 ## Program
 8:45--9:00   | Opening remarks<br> 
-9:00--9:35   | [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind<br><b>Data driven reading comprehension: successes and limitations  </b><button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
+9:00--9:35   | [Phil Blunsom](https://www.cs.ox.ac.uk/people/phil.blunsom/), University of Oxford/Deepmind<br><b> - Data driven reading comprehension: successes and limitations  </b><button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
 <div class="collapse" id="collapseExample">
     <div class="card card-body">The last three years has seen an explosion in interest in the application of large scale machine learning techniques to reading comprehension tasks. This interest has been driven by the availability of large datasets suitable for estimating data hungry supervised deep learning models. In this talk I will describe how our work at DeepMind has contributed to this trend and discuss whether this is the right approach for developing and evaluating natural language understanding systems.</div></div>
-9:35--10:10  | [Sebastian Riedel](http://www.riedelcastro.org/), University College London<br><b>Reading and Reasoning with Neural Program Interpreters  </b>
+9:35--10:10  | [Sebastian Riedel](http://www.riedelcastro.org/), University College London<br><b> - Reading and Reasoning with Neural Program Interpreters  </b>
 <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample0" aria-expanded="false" aria-controls="collapseExample">
     Abstract
   </button>
@@ -48,7 +48,7 @@ surrounding MRQA, including:
     <div class="card card-body">We are getting better at teaching end-to-end neural models how to answer questions about content in natural language text. However, progress has been mostly restricted to extracting answers that are directly stated in text. In this talk, I will present our work towards teaching machines not only to read, but also to reason with what was read and to do this in a interpretable and controlled fashion. Our main hypothesis is that this can be achieved by a)  the development of neural abstract machines that follow the blueprint of program interpreters for real-world programming languages. We test this idea using two languages: an imperative (Forth) and a declarative (Prolog/Datalog) one. In both cases we implement differentiable interpreters that can be used for learning reasoning patterns. Crucially, because they are based on interpretable host languages, the interpreters also allow users to easily inject prior knowledge and inspect the learnt patterns. We will also present a data generation strategy to produce training sets for tasks that require reading and reasoning, and two datasets we have generated with it: Wikihop and Medhop.</div></div>
 10:10--10:30 | Best paper talk: _A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset_<br>
 10:30--11:00 | Morning coffee break<br>
-11:00--11:35 | [Richard Socher](https://www.socher.org/), Salesforce Research<br><b> - The Natural Language Decathlon: Multitask Learning as Question Answering . </b><button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample">
+11:00--11:35 | [Richard Socher](https://www.socher.org/), Salesforce Research<br><b> - The Natural Language Decathlon: Multitask Learning as Question Answering  </b><button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample">
     Abstract
   </button>
   <div class="collapse" id="collapseExample1">
@@ -57,7 +57,7 @@ Deep learning has improved performance on many natural language processing (NLP)
 We introduce the Natural Language Decathlon (decaNLP), a challenge that spans ten tasks:
 question answering, machine translation, summarization, natural language inference, sentiment analysis, semantic role labeling, zero-shot relation extraction, goal-oriented dialogue, semantic parsing, and commonsense pronoun resolution.
 We cast all tasks as question answering over a context. Furthermore, we present a new Multitask Question Answering Network (MQAN) jointly learns all tasks in decaNLP without any task-specific modules or parameters in the multitask setting. MQAN shows improvements in transfer learning for machine translation and named entity recognition, domain adaptation for sentiment analysis and natural language inference, and zero-shot capabilities for text classification. We demonstrate that the MQAN's multi-pointer-generator decoder is key to this success and performance further improves with an anti-curriculum training strategy. Though designed for decaNLP, MQAN also achieves state of the art results on the WikiSQL semantic parsing task in the single-task setting. We release code for procuring and processing data, training and evaluating models, and reproducing all experiments for decaNLP. </div></div>
-11:35--12:10 | [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research<br> <b>Multi-step reasoning neural networks for question answering . </b><button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">
+11:35--12:10 | [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research<br><b> - Multi-step reasoning neural networks for question answering </b><button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">
     Abstract
   </button>
   <div class="collapse" id="collapseExample2">
