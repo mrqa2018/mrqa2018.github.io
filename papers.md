@@ -3,6 +3,8 @@ layout: main
 title: Accepted Papers
 order: 2
 ---
+Proceedings are now online [here](https://aclanthology.info/volumes/proceedings-of-the-workshop-on-machine-reading-for-question-answering).
+
 ## Accepted Papers
 This is the list of accepted papers to MRQA 2018.
 Congratulations to all of the authors, 
