@@ -4,6 +4,7 @@ title: Home
 order: 1
 ---
 **New**: we have released our workshop [program](#program)!
+**NEW**: If you have questions for the panelists, please send the questions to mrqa2018@googlegroups.com
 
 
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
@@ -73,7 +74,9 @@ We cast all tasks as question answering over a context. Furthermore, we present 
 
 14:20--15:30 | Poster session (with one-minute spotlight talks)<br>
 15:30--16:00 | Afternoon coffee break<br>
-16:00--17:00 | Panel discussion<br>
+16:00--17:00 | Panel discussion <br>
+<b>[Annette Frank](http://www.cl.uni-heidelberg.de/~frank/), Jianfeng Gao, [Chris Manning](https://nlp.stanford.edu/manning/), Sebastian Riedel, Sameer Singh, Richard Socher</b><br>
+
 
 
 ## Important Dates
