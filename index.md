@@ -4,7 +4,8 @@ title: Home
 order: 1
 ---
 **New**: we have released our workshop [program](#program)!
-**NEW**: If you have questions for the panelists, please send the questions to mrqa2018@googlegroups.com
+
+###**NEW**: If you have questions for the panelists, please send the questions to mrqa2018@googlegroups.com
 
 
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
