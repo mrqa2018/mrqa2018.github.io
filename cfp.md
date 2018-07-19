@@ -52,8 +52,8 @@ Can we guarantee good performance on certain types of questions or documents?
 ## Important Dates
 - ~~Deadline for submission: Monday, April 23, 2018~~  
 - ~~Notification of acceptance: Tuesday, May 15, 2018~~  
-- Deadline for camera-ready version: Monday, May 28, 2018  
-- Workshop Date: Thursday, July 19, 2018
+- ~~Deadline for camera-ready version: Monday, May 28, 2018~~  
+- ~~Workshop Date: Thursday, July 19, 2018~~
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world). 
 

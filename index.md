@@ -3,10 +3,8 @@ layout: main
 title: Home
 order: 1
 ---
-**New**: we have released our workshop [program](#program)!
-
-###**NEW**: If you have questions for the panelists, please send the questions to mrqa2018@googlegroups.com
-
+**Thank you to everyone who attended MRQA 2018!**
+We will post slides from our invited talks in the coming weeks.
 
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,
@@ -85,7 +83,7 @@ We cast all tasks as question answering over a context. Furthermore, we present 
 - ~~Notification of acceptance: Tuesday, May 15, 2018~~  
 - ~~Deadline for camera-ready version: Monday, May 28, 2018~~  
 - ~~[Early registration deadline](https://acl2018.org/registration): June 4, 2018~~ 
-- Workshop Date: Thursday, July 19, 2018
+- ~~Workshop Date: Thursday, July 19, 2018~~
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world). 
 
