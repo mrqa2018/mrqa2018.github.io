@@ -48,4 +48,5 @@ order: 3
 - Johannes Welbl
 - Caiming Xiong
 - Victor Zhong
+- Chenguang Zhu
 {: .two-column}
